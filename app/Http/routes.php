@@ -11,9 +11,11 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', function () {
+//    return view('welcome');
+//});
+
+Route::get('/', 'Controller@index');
 
 /*
 |--------------------------------------------------------------------------
@@ -25,6 +27,10 @@ Route::get('/', function () {
 | kernel and includes session state, CSRF protection, and more.
 |
 */
+/*
+ * contact page
+ */
+Route::get('/contact', 'Controller@contact');
 
 Route::group(['middleware' => ['web']], function () {
     //
