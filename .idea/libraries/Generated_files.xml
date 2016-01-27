@@ -2,14 +2,20 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/resources/assets/bootstrap/js/bootstrap.min.js" />
         <item url="file://$PROJECT_DIR$/resources/assets/js/app.min.js" />
+        <item url="file://$PROJECT_DIR$/resources/assets/bootstrap/js/bootstrap.min.min.js" />
         <item url="file://$PROJECT_DIR$/resources/assets/js/vendor.min.js" />
+        <item url="file://$PROJECT_DIR$/resources/assets/bootstrap/js/npm.min.js" />
         <item url="file://$PROJECT_DIR$/resources/assets/js/material.min.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/resources/assets/bootstrap/js/bootstrap.min.js" />
       <root url="file://$PROJECT_DIR$/resources/assets/js/app.min.js" />
+      <root url="file://$PROJECT_DIR$/resources/assets/bootstrap/js/bootstrap.min.min.js" />
       <root url="file://$PROJECT_DIR$/resources/assets/js/vendor.min.js" />
+      <root url="file://$PROJECT_DIR$/resources/assets/bootstrap/js/npm.min.js" />
       <root url="file://$PROJECT_DIR$/resources/assets/js/material.min.js" />
     </CLASSES>
     <SOURCES />
